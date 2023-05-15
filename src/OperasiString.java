@@ -1,4 +1,4 @@
-package String;
+package string;
 public class OperasiString {
     public static void main(String[] args){
       String kota = "Yogyakarta";
@@ -11,7 +11,7 @@ public class OperasiString {
 
       System.out.println(kota.toUpperCase());
       System.out.println(kota.toLowerCase());
-      System.out.println(kota.substring(S));
+      System.out.println(kota.substring(5));
       System.out.println(kota.substring(0,4));
     }
 }
